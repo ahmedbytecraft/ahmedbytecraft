@@ -85,7 +85,7 @@ I've built automation pipelines and AI-driven workflows that eliminate manual op
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ahmedbytecraft&theme=tokyonight&hide_border=true" width="55%" />
+  <img src="https://streak-stats.demolab.com/?user=ahmedbytecraft&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&starting_year=2014" width="55%" />
 </p>
 
 <p align="center">
