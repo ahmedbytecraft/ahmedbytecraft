@@ -85,20 +85,9 @@ I've built automation pipelines and AI-driven workflows that eliminate manual op
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedbytecraft&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=ahmedbytecraft&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbytecraft&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
+  <img src="https://streak-stats.demolab.com/?user=ahmedbytecraft&theme=tokyonight&hide_border=true" width="55%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedbytecraft&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedbytecraft&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
